@@ -21,5 +21,3 @@ Download the following pre-trained model and put them in ./models/MSAAFNet/, the
 [MSAAFNet_V3_DUTS-TR](https://pan.baidu.com/s/1YIq1E2h15Ik24wYQlVn-VQ) (code:lbc0)
 # Evaluation Tool
 You can use the [evaluation tool (MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
-# Acknowledgement
-We would like to thank the contributors to the [MCCNet](https://github.com/MathLee/MCCNet).
